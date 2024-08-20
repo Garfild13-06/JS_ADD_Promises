@@ -1,4 +1,3 @@
-// src/js/GameSavingLoader.js
 import read from './reader';
 import json from './parser';
 import GameSaving from './GameSaving';
